@@ -1,0 +1,2 @@
+# firstgit
+Creat a repository
